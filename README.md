@@ -2,31 +2,24 @@
 
 ## Inhaltsverzeichnis
 1. [Projektübersicht](#projektübersicht)  
-2. [Motivation](#motivation)  
-3. [Datenquellen](#datenquellen)  
-4. [Methodik](#methodik)  
-5. [Dashboard-Beschreibung](#dashboard-beschreibung)  
+2. [Motivation](#motivation)   
+3. [Methodik](#methodik)  
+4. [Dashboard-Beschreibung](#dashboard-beschreibung)  
    - [PKW-Dichte pro Bezirk](#pkw-dichte-pro-bezirk)  
    - [Fahrten pro Ticket vs. Jahreskarten](#fahrten-pro-ticket-vs-jahreskarten)  
    - [Top-Modus im Jahresvergleich](#top-modus-im-jahresvergleich)  
    - [Anteil öffentlicher Verkehrsmittel](#anteil-öffentlicher-verkehrsmittel)  
-6. [Interpretation und Hintergründe](#interpretation-und-hintergründe)  
+5. [Interpretation und Hintergründe](#interpretation-und-hintergründe)  
    - [Soziale Faktoren](#soziale-faktoren)  
    - [Politische Rahmenbedingungen](#politische-rahmenbedingungen)  
    - [Wirtschaftliche Einflüsse](#wirtschaftliche-einflüsse)  
-7. [Fazit](#fazit)
+6. [Fazit](#fazit)
 
 ## Projektübersicht
 In diesem Projekt werden Mobilitätsdaten der Wiener Linien und ergänzende Verkehrsdaten ausgewertet. Ziel ist es, Veränderungen im Fahrgastverhalten, in der Modal Split und in der privaten PKW-Dichte pro Bezirk zu untersuchen. Die Ergebnisse werden in einem interaktiven Tableau-Dashboard visualisiert, um Handlungsfelder für Verkehrsplanung und Politik abzuleiten.
 
 ## Motivation
 Die Mobilität in Wien unterliegt einem steten Wandel, bedingt durch demografische Verschiebungen, Klimaziele und infrastrukturelle Entwicklungen. Durch die Analyse von Fahrgastzahlen und PKW-Dichte soll aufgezeigt werden, wie sich die Nutzung öffentlicher Verkehrsmittel gegenüber dem Individualverkehr entwickelt hat. Diese Erkenntnisse können Entscheidungsträgern helfen, gezielte Maßnahmen zur Verkehrsberuhigung und ÖPNV-Förderung zu planen.
-
-## Datenquellen
-- **Wiener Linien Open Data**: Quartals- und Jahreswerte zu Fahrgastzahlen, Ticketverkäufen und Jahreskarten  
-- **Statistik Austria**: PKW-Zulassungen und Einwohnerzahlen auf Bezirksebene  
-- **Open Data Wien**: Bezirksgrenzen und demografische Strukturdaten  
-- **Mobilitätsumfragen**: Ergebnisse zum Modal Split (zu Fuß, Fahrrad, PKW, ÖPNV)
 
 ## Methodik
 1. **Datenaufbereitung:** Zusammenführung der Datenquellen, Bereinigung von Zeitreihen und Bezirkskennzahlen  
