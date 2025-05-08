@@ -2,7 +2,7 @@
 SQL + Tableau
 
 
-[Dashboard Foto](WL_Dashboard.png)
+
 
 
 
